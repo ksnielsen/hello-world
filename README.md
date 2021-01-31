@@ -1,2 +1,9 @@
-# hello-world
-[change] Just another repository
+## **Hi, I'm Kirsten!**
+
+### My experience is mostly with:
+  * ### Python
+  * ### SQL
+  * ### Matlab
+  * ### R
+  * ### Wordpress
+  * ### HTML
